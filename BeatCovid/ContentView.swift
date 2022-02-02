@@ -12,11 +12,13 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         Text("Hello, PM!")
-            .foregroundColor(.red)
+            .foregroundColor(.green)
             .padding()
         Circle()
+            .foregroundColor(.red)
     }
 }
+
 
 
 
