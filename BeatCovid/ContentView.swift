@@ -14,6 +14,7 @@ struct ContentView: View {
         Text("Hello, PM!")
             .foregroundColor(.red)
             .padding()
+        Circle()
     }
 }
 
